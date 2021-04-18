@@ -69,7 +69,7 @@ colPerc(table1)
 
 In the orginal total dataset, in terms of percentages the males died was almost twice as great as females.
 
-##  Inferential results
+##   results
 
 ```{r}
 chisq.test(table1)
